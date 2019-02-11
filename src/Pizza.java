@@ -5,6 +5,7 @@ public abstract class Pizza {
     Veggies veggies[];
     Cheese cheese;
     Clams clam;
+    Pepperoni pepperoni;
 
     abstract void prepare();
 
